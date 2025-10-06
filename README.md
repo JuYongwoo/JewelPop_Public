@@ -2,17 +2,17 @@
 
 ## 🎮 게임 방식
 
+<br><br>
 
+![게임 시연](https://raw.githubusercontent.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF2.gif)
+- **드래그로 스왑**: 마우스를 눌러 이웃한 보석과 위치를 교환하면 인접한 보석들을 확인하고 3개 이상 매칭되지 않으면 제자리로 돌아갑니다.
+<br><br>
 
-[이미지](https://github.com/JuYongWoo/JewelPop_Public/blob/main/README/JewelPop_GIF1.gif)
-- **드래그로 스왑**: 마우스를 눌러 이웃한 보석과 위치를 교환합니다.
-- 인접한 보석들을 확인하고 3개 이상 매칭되지 않으면 제자리로 돌아갑니다.
+![게임 시연](https://raw.githubusercontent.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF1.gif)
+- **매치 규칙**: 같은 종류의 보석 **3개 이상** 연속으로 맞추면 터집니다. 이 때, **깃발 주변**에서 매치가 일어나면 점수를 획득합니다.
+<br><br>
 
-
-- **매치 규칙**: 같은 종류의 보석 **3개 이상** 연속으로 맞추면 터집니다.
-
-- 
-- **점수 보너스**: **깃발 주변**에서 매치가 일어나면 점수를 획득합니다.
+![게임 시연](https://raw.githubusercontent.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF3.gif)
 - **승패 조건**
   - **승리**: 제한 시간 내 **목표 점수** 달성
   - **패배**: 제한 시간 내 목표 점수 미달성
